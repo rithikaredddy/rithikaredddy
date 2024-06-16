@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with Full-Stack-Projects [Full-Stack-Web-Dev](https://github.com/rithikaredddy/FULL-STACK-WEB-DEV)
 
-- 👨‍💻 All of my projects are available at [https://anumandlarithika.carrd.co/](https://anumandlarithika.carrd.co/)
+- 👨‍💻 All of my projects are available at [https://github.com/rithikaredddy/PROJECTS](https://github.com/rithikaredddy/PROJECTS)
 
 - 💬 Ask me about **JS,HTML,Django,Flask**
 
