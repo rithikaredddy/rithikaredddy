@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **rithikareddy087@gmail.com**
 
-- 📄 Know about my experiences [https://anumandlarithika.carrd.co/](https://anumandlarithika.carrd.co/)
+- 📄 Know about my experiences [https://rithika-portfolio.vercel.app/](https://rithika-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
